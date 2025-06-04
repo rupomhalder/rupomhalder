@@ -51,9 +51,7 @@
 ### 📲 UPI (PhonePe / Google Pay)
 **UPI ID:** `halderrupom521@okhdfcbank`
 
-Scan the QR to donate:
-
-![Scan to pay UPI](./upi-qr.jpg)
+ 
 
 ---
 
